@@ -1,2 +1,3 @@
 # RNChatApp-SendBird
-# RNChatApp-Sendbird
+
+----
