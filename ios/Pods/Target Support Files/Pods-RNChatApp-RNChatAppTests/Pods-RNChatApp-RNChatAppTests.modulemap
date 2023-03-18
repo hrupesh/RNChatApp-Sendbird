@@ -1,0 +1,6 @@
+module Pods_RNChatApp_RNChatAppTests {
+  umbrella header "Pods-RNChatApp-RNChatAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

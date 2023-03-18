@@ -1,0 +1,25 @@
+{
+  "name": "react-native-file-access",
+  "version": "2.5.3",
+  "summary": "Filesystem access for React Native",
+  "homepage": "https://github.com/alpha0010/react-native-file-access#readme",
+  "license": "MIT",
+  "authors": "alpha0010 <alpha0010@users.noreply.github.com> (https://github.com/alpha0010)",
+  "platforms": {
+    "ios": "11.0",
+    "osx": "10.10"
+  },
+  "source": {
+    "git": "https://github.com/alpha0010/react-native-file-access.git",
+    "tag": "2.5.3"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "ZIPFoundation": [
+      "0.9.11"
+    ]
+  }
+}

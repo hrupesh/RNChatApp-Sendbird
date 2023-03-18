@@ -1,0 +1,6 @@
+framework module react_native_document_picker {
+  umbrella header "react-native-document-picker-umbrella.h"
+
+  export *
+  module * { export * }
+}
